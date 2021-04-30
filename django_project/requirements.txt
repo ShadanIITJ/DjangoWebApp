@@ -19,7 +19,7 @@ pytz==2019.2
 selenium==3.141.0
 six==1.11.0
 sqlparse==0.3.0
-urllib3==1.25.3
+urllib3==1.25.8
 Werkzeug==0.15.4
 wrapt==1.10.11
 xlrd==1.2.0
